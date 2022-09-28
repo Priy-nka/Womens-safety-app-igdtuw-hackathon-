@@ -104,7 +104,7 @@ code, pre{
 .user{
     display: flex;
     justify-content: center;
-    margin: 30px;
+    margin: 50px;
 }
 .login-btn{
     display:inline-block;
