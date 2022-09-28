@@ -4,7 +4,7 @@ Women’s safety is the prime concern in view of the latest incidents that have 
 various parts of our country. Due to unavailability of proper help, it becomes very difficult for
 the victim or a person to cope up with the situation. 
 In order to tackle and to avoid any
-unusual incidences we made Medusafe
+unusual incidences we made Medusa
 
 Medusa is a Dynamic web project for women safety and security with auto location tracking and many other features!
 
@@ -12,7 +12,7 @@ Medusa is a Dynamic web project for women safety and security with auto location
 ## Installation
 
 You can download the zip file and run it on your local system and also we have deployed our project on Github pages so you can check that out too.
-[Medusafe web app](https://bigguysahaj.github.io/Womens-safety-app-igdtuw-hackathon-/)
+[Medusa web app](https://bigguysahaj.github.io/Womens-safety-app-igdtuw-hackathon-/)
 
 ## Usage
 
