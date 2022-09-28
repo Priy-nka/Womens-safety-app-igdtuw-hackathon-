@@ -109,10 +109,10 @@ code, pre{
 .login-btn{
     display:inline-block;
     cursor: pointer;
-    background-color: rgb(197, 96, 8);
+    background-color: rgb(243, 126, 54);
     color:rgb(138, 34, 34);
     font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 10px;
     border: 4px rgb(138, 34, 34) solid ;
     width: 300px;
@@ -122,9 +122,10 @@ code, pre{
 .s-btn{
     display:inline-block;
     cursor: pointer;
-    background-color: rgb(197, 96, 8);
+    background-color: rgb(243, 126, 54);
     color:rgb(138, 34, 34);
     font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 10px;
     border: 4px rgb(138, 34, 34) solid ;
     width: 300px;
@@ -134,9 +135,10 @@ code, pre{
 .l-btn{
     display:inline-block;
     cursor: pointer;
-    background-color: rgb(197, 96, 8);
+    background-color: rgb(243, 126, 54);
     color:rgb(138, 34, 34);
     font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 10px;
     border: 4px rgb(138, 34, 34) solid;
     width: 300px;
